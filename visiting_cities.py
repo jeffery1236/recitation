@@ -47,3 +47,8 @@ if __name__ == '__main__':
     blue = [3, 1, 1]
     blueCost = 2
     print(get_min_cost(red, blue, blueCost))
+
+    red = [4, 3, 2]
+    blue = [2, 5, 1]
+    blueCost = 1
+    print(get_min_cost(red, blue, blueCost))
